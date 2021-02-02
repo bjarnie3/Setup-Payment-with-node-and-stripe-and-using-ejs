@@ -1,0 +1,27 @@
+{
+  "name": "setup-payment-with-node-and-stripe-and-using-ejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjarnie3/Setup-Payment-with-node-and-stripe-and-using-ejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjarnie3/Setup-Payment-with-node-and-stripe-and-using-ejs/issues"
+  },
+  "homepage": "https://github.com/bjarnie3/Setup-Payment-with-node-and-stripe-and-using-ejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "stripe": "^8.132.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
